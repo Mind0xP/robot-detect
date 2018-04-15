@@ -15,7 +15,7 @@ Dependencies
 
 This script needs Python 3, the gmpy2 and the cryptography library.
 
-Install dependecies -
+Install dependecies:
 
 Debian - `apt-get install libmpc-dev libmpfr-dev`
 
@@ -25,6 +25,7 @@ Install with pip
 ================
 
 To install with the needed python dependencies run:
+
 `pip install -r requirements.txt`
 
 License
