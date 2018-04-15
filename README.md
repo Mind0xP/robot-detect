@@ -16,7 +16,9 @@ Dependencies
 This script needs Python 3, the gmpy2 and the cryptography library.
 
 Install dependecies -
+
 Debian - `apt-get install libmpc-dev libmpfr-dev`
+
 Fedora/Redhat - `yum install mpfr-devel libmpc-devel`
 
 Install with pip
