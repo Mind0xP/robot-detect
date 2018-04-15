@@ -15,12 +15,15 @@ Dependencies
 
 This script needs Python 3, the gmpy2 and the cryptography library.
 
+Install dependecies -
+Debian - `apt-get install libmpc-dev libmpfr-dev`
+Fedora/Redhat - `yum install mpfr-devel libmpc-devel`
+
 Install with pip
 ================
 
-To install with the needed dependencies run:
-
-`pip install robot-detect`
+To install with the needed python dependencies run:
+`pip install -r requirements.txt`
 
 License
 =======

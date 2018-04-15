@@ -1,0 +1,4 @@
+gmpy2>=2.0.8
+clint>=0.5.1
+cryptography>=2.2.2
+argparse>=1.4.0
